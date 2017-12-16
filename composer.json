@@ -1,5 +1,5 @@
 {
-    "name": "symfony-fpdf/fpdf",
+    "name": "jafar-symfony-fpdf/fpdf",
     "version": "1.0.0",
     "homepage": "https://github.com/jafaronly",
     "description": "clean integration of FPDF library with symfony.",
