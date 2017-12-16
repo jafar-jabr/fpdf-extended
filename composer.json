@@ -1,0 +1,21 @@
+{
+    "name": "symfony-fpdf/fpdf",
+    "version": "1.0.0",
+    "homepage": "https://github.com/jafaronly",
+    "description": "FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.",
+    "type": "library",
+    "keywords": ["pdf", "fpdf"],
+    "license": "no usage restriction",
+    "authors": [
+        {
+            "name": "Jafar Jabr",
+            "email": "Jafaronly@yahoo.com",
+            "homepage": "https://github.com/jafaronly"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "fpdf.php"
+        ]
+    }
+}
