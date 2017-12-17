@@ -1,8 +1,8 @@
 {
-    "name": "jafar-symfony-fpdf/fpdf",
-    "version": "1.0.0",
+    "name": "symfony-fpdf/fpdf",
+    "version": "1.1.0",
     "homepage": "https://github.com/jafaronly",
-    "description": "clean integration of FPDF library with symfony.",
+    "description": "PDF libarary for symfony Based on FPDF library (http://www.fpdf.org/).",
     "type": "library",
     "keywords": ["pdf", "fpdf"],
     "license": "no usage restriction",
@@ -15,7 +15,8 @@
     ],
     "autoload": {
         "classmap": [
-            "fpdf.php"
+            "fpdf.php",
+            "fpdfExtended.php"
         ]
     }
 }
