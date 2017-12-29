@@ -1,4 +1,4 @@
-# symfony-fpdf
-extended PDF libarary for symfony Based on FPDF library (http://www.fpdf.org/).
+# fpdf-extended
+extended PDF libarary Based on FPDF library (http://www.fpdf.org/).
 
-Available at : composer require jafar/symfony-fpdf "dev-master"
+Available at : composer require jafar/fpdf-extended "^1.0.0"
