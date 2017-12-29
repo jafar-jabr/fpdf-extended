@@ -1,8 +1,8 @@
 {
-    "name": "jafar/symfony-fpdf",
+    "name": "jafar/fpdf-extended",
     "version": "1.0.0",
     "homepage": "https://github.com/jafaronly",
-    "description": "PDF libarary for symfony Based on FPDF library (http://www.fpdf.org/).",
+    "description": "PDF libarary Based on FPDF library (http://www.fpdf.org/).",
     "type": "library",
     "keywords": ["pdf", "fpdf"],
     "license": "no usage restriction",
