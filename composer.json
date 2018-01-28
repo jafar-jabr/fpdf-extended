@@ -5,7 +5,7 @@
     "description": "PDF libarary Based on FPDF library (http://www.fpdf.org/).",
     "type": "library",
     "keywords": ["pdf", "fpdf"],
-    "license": "no usage restriction",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jafar Jabr",
